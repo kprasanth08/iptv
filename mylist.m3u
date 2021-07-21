@@ -3,25 +3,4 @@
 http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="StarMaaMoviesHD.in" tvg-name="Star Maa Movies HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Star Maa Movies HD
 http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
-#EXTINF:-1,Disney Channel
-http://213.252.252.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
-#EXTINF:-1,Nickelodeon
-http://213.252.252.2/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
-#EXTINF:-1,Disney Junior
-http://213.252.252.2/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
-#EXTINF:-  ETV Telugu  iptv playlist / link
-http://195.181.169.151:8080/ETVTelugu-telu/index.m3u8
-#EXTINF:-  Sony ESPN  iptv playlist / link
-https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
-#EXTINF:-  Sony Pix  iptv playlist / link
-https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
-#EXTINF:-  Sony Six  iptv playlist / link
-http://fr-c.movply.stream/hls/sony-six-hd.m3u8
-#EXTINF:-  Sony Ten 1 iptv playlist / link
-https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
-#EXTINF:-  Sony Ten 2 iptv playlist / link
-http://fr-c.movply.stream/hls/sony-ten-2-hd.m3u8
-#EXTINF:-  Sony Ten 3 iptv playlist / link
-http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
-#EXTINF:-1,National Geographic
-http://213.252.252.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+
