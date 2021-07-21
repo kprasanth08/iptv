@@ -1,4 +1,4 @@
-EXTM3U 
+#EXTM3U 
 #EXTINF:-1 tvg-id="StarMaaHD.in" tvg-name="Star Maa HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Star Maa HD
 http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="StarMaaMoviesHD.in" tvg-name="Star Maa Movies HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Star Maa Movies HD
