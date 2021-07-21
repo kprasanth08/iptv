@@ -23,3 +23,5 @@ https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
 http://fr-c.movply.stream/hls/sony-ten-2-hd.m3u8
 #EXTINF:-  Sony Ten 3 iptv playlist / link
 http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
+#EXTINF:-1,National Geographic
+http://213.252.252.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
