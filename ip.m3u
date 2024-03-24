@@ -1,3 +1,13 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gkYsLsPm/image_14.jpg" group-title="Indian Regional", Star Maa HD
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/gkYsLsPm/image_14.jpg" group-title="telegu", Star Maa HD
 http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
+#EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-logo="https://i.imgur.com/pFNCRnf.png" group-title="telegu",ETV Andhra Pradesh (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCJi8M0hRKjz8SLPvJKEVTOg.m3u8
+#EXTINF:-1 tvg-id="ETVTelangana.in" tvg-logo="https://i.imgur.com/DkgvWTK.png" group-title="telegu",ETV Telangana (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
+#EXTINF:-1 tvg-id="NTVTelugu.in" tvg-logo="https://i.imgur.com/WqTIoWS.png" group-title="telegu",NTV Telugu (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCumtYpCY26F6Jr3satUgMvA.m3u8
+#EXTINF:-1 tvg-id="Pogo.in" tvg-logo="https://i.imgur.com/70pYQh4.png" group-title="kids",Pogo
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="Travel",Travel XP
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
